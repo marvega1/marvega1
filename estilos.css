@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para el titulo*/
+.header {
+    background-color: hsl(246, 74%, 57%);
+    color: #a98bd1;
+    text-align: center;
+    padding: 20px;
+}
+
+.title {
+    margin: 0;
+}
+
+/* Estilos para el contenido principal */
+.content {
+    padding: 20px;
+}
+
+.section1,
+.section2 {
+    margin-bottom: 20px;
+    border: 1px solid #dddddd;
+    padding: 10px;
+}
+
+.section-title {
+    color: #333;
+}
+
+.section-text {
+    color: #666;
+}
+
+/* Estilos para el pie de página */
+.footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.footer-text {
+    margin: 0;
+}
